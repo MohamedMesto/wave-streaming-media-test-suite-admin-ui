@@ -1,8 +1,15 @@
 # wave-streaming-media-test-suite-admin-ui
+
+**Description:**
+
 Admin UI extension for the WAVE Streaming Media Test Suite for Devices, providing configuration, test generation, report merging, and export functionalities via a web interface.
 
-### Recommended Repository Structure
+Perfect! Thanks for providing the detailed project description. I can now create a **concrete plan and GitHub repository structure** for the **WAVE Streaming Media Test Suite - Admin UI**, tailored to your project requirements.
 
+   
+## Repository Structure
+
+```
 wave-streaming-media-test-suite-admin-ui/
 ├── README.md
 ├── package.json
@@ -24,3 +31,15 @@ wave-streaming-media-test-suite-admin-ui/
 │   └── design.md        # Conceptual design and integration plan
 ├── scripts/             # Deployment or automation scripts
 └── reports/             # Merged test reports
+```
+
+---
+
+## Branch Strategy
+
+* **main** → stable production-ready code
+* **dev** → active development
+* **feature/<name>** → feature branches
+* **fix/<name>** → bug fixes
+ 
+
